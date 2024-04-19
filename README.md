@@ -1,4 +1,4 @@
-Create a .env file and add the environment variable of backend server as
+# Create a .env file and add the environment variable of backend server as
 REACT_APP_SERVER_URI= "your backend url"
 
 
